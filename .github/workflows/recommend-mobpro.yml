@@ -15,6 +15,6 @@ jobs:
     permissions:
       pull-requests: write
     steps:
-      - uses: tnyo43/recommend-mobpro-action@302b7536f9f09798d6947861960aaa7f1d2b27f7
+      - uses: tnyo43/recommend-mobpro-action@v1
         with:
           threshold: 4
